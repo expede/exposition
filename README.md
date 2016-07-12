@@ -1,2 +1,2 @@
-# Overture
-The Robot Overlord custom Prelude
+# Exposition
+A modern Haskell Prelude focused on consistency and pedagogy
